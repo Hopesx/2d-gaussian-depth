@@ -1,0 +1,4 @@
+# ninja log v5
+0	5257	1722257283744934098	/home/liu/2d-gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	972b220bca0c61ec
+0	11375	1722257289858310010	/home/liu/2d-gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	2c78b5a13f05e7ab
+0	26389	1722257304873550757	/home/liu/2d-gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	fdb0817bbffd4e44
